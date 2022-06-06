@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi everyone
 
-<!--
-**felix901011/felix901011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 姓名:簡宏諭 班級:資管二B 學號:109403044
 
-Here are some ideas to get you started:
+### 畢業學校
+---
+**崇德國小**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**秀峰國中**
+
+**中崙高中**
+
+
+## 興趣
+---
+**打籃球**
+
+**英雄聯盟小丑本人。**
+
+
+## 星座
+**天秤**
+
+### 學過語言
+* JAVA
+* C++
+* HTML
+* JS
+* Python
+* PHP
+* English
+
+
+
+
