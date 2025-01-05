@@ -23,12 +23,7 @@
 ### 學過語言
 * JAVA
 * C++
-* HTML
-* JS
 * Python
-* PHP
-* English
-
 
 
 
