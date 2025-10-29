@@ -41,8 +41,7 @@
 ---
 
 ## 🌐 Connect
-- 📫 Email: **your-email@example.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin/
-- 📝 Blog/Portfolio: https://your-portfolio.site (optional)
+- 📫 Email: **abc0925215857@gmail.com**
+- 💼 LinkedIn:
 
 ---
