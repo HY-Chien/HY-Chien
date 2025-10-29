@@ -29,14 +29,8 @@
 
 ## 📌 Featured Projects
 <!-- 換成你想置頂/代表性的專案 -->
-- **cyWeb-backend** – RESTful backend with Node.js/TypeScript  
-  🔗 https://github.com/YOUR_USERNAME/cyWeb-backend
-- **admin-management** – Admin panel built with TypeScript  
-  🔗 https://github.com/YOUR_USERNAME/admin-management
-- **miao-fruit-web** – E-commerce web app (JavaScript)  
-  🔗 https://github.com/YOUR_USERNAME/miao-fruit-web
-- **xchange-contest-finder** – Contest aggregation/search (TypeScript)  
-  🔗 https://github.com/YOUR_USERNAME/xchange-contest-finder
+- **AWS-FINAL-SMART-WASHER** – Python with AWS 
+  🔗 [https://github.com/YOUR_USERNAME/cyWeb-backend](https://github.com/HY-Chien/cloud-programming-smart-washer)
 
 ---
 
