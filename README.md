@@ -1,16 +1,17 @@
 <h1 align="center">👋 Hi, I'm HungYu</h1>
 <p align="center">
-  Backend Developer · Software Engineer · Cloud Engineer
+🛠️ Backend · 💻 Software · ☁️ Cloud · 🤖 AI · 🔧 Firmware/Embedded
+
+
 </p>
 
 ---
 
 ## 🔎 About me
-- 🎓 Information Management @ **National Central University**
-- <img src="https://api.iconify.design/lucide:book.svg?width=22" alt="book"/> I'm currently pursuing my master's degree at the ISA @ NTHU
-- 🌱 Interested in **scalable system design**, **DevOps**, **Web3**
-- 🚀 Familiar with **AWS**, **Docker**, and **cloud-based deployments**
-- 🧪 Comfortable with unit testing in **Node.js (Mocha)** and **Python (Django test framework)**
+- 🎓 Graduated from [Information Management](https://im.mgt.ncu.edu.tw/english), [National Central University](https://www.ncu.edu.tw/).
+- 📝 I’m currently pursuing my master’s degree at the [ISA](https://isa.site.nthu.edu.tw/index.php?Lang=en) @ [NTHU](https://nthu-en.site.nthu.edu.tw/).
+- 🌱 Interested in **AI/ML**, **MLOps**, **Firmware/Embedded Systems**
+- 🚀 Familiar with **PyTorch**, **YOLO**, **AWS**, **Docker**, **C/C++**
 
 
 ---
