@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Jeter</h1>
+<h1 align="center">👋 Hi, I'm HungYu</h1>
 <p align="center">
   Backend Developer · Software Engineer · Cloud Engineer
 </p>
@@ -7,18 +7,16 @@
 
 ## 🔎 About me
 - 🎓 Information Management @ **National Central University**
+- <img src="https://api.iconify.design/lucide:book.svg?width=22" alt="book"/> I'm currently pursuing my master's degree at the ISA @ NTHU
 - 🌱 Interested in **scalable system design**, **DevOps**, **Web3**
 - 🚀 Familiar with **AWS**, **Docker**, and **cloud-based deployments**
 - 🧪 Comfortable with unit testing in **Node.js (Mocha)** and **Python (Django test framework)**
 
-> 如果你想放中文版簡介，也可以加在這裡：
->
-> 我關注可擴展系統設計、DevOps、雲端部署與 Web3，熟悉 AWS、Docker，並在 Node.js（Mocha）與 Python（Django 測試框架）上有單元測試經驗。
 
 ---
 
 ## 🛠 Tech Stack
-<!-- 你可以增減這些徽章 -->
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
