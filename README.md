@@ -9,7 +9,7 @@
 
 ## 🔎 About me
 - 🎓 Graduated from [Information Management](https://im.mgt.ncu.edu.tw/english), [National Central University](https://www.ncu.edu.tw/).
-- 📝 I’m currently pursuing my master’s degree at the [ISA](https://isa.site.nthu.edu.tw/index.php?Lang=en) @ [NTHU](https://nthu-en.site.nthu.edu.tw/).
+- 📝 I’m currently pursuing my master’s degree at the [Information Systems and Applications](https://isa.site.nthu.edu.tw/index.php?Lang=en) @ [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/).
 - 🌱 Interested in **AI/ML**, **MLOps**, **Firmware/Embedded Systems**
 - 🚀 Familiar with **PyTorch**, **YOLO**, **AWS**, **Docker**, **C/C++**
 
