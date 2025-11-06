@@ -28,9 +28,14 @@
 ---
 
 ## 📌 Featured Projects
-<!-- 換成你想置頂/代表性的專案 -->
 - **AWS-FINAL-SMART-WASHER** – Python with AWS 
   🔗 (https://github.com/HY-Chien/cloud-programming-smart-washer)
+
+- **label-studio-ml-backend** – 🔗(https://github.com/HY-Chien/label-studio-ml-backend)
+
+- **cloud-programming-energy-saving-bus-stop** – 🔗(https://github.com/HY-Chien/cloud-programming-energy-saving-bus-stop)
+
+
 
 ---
 
