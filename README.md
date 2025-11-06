@@ -30,7 +30,7 @@
 ## 📌 Featured Projects
 <!-- 換成你想置頂/代表性的專案 -->
 - **AWS-FINAL-SMART-WASHER** – Python with AWS 
-  🔗 [https://github.com/YOUR_USERNAME/cyWeb-backend](https://github.com/HY-Chien/cloud-programming-smart-washer)
+  🔗 (https://github.com/HY-Chien/cloud-programming-smart-washer)
 
 ---
 
