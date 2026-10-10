@@ -40,7 +40,7 @@
 ---
 
 ## 🌐 Connect
-- 📫 Email: **abc0925215857@gmail.com**
+- 📫 Email: **s113065528@m113.nthu.edu.tw**
 - 💼 LinkedIn:
 
 ---
